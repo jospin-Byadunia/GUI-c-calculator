@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+E:\projects\Cpp\GUI\RealCalculator project\RealCalculator project\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RealCalculator project.vcxproj -> E:\projects\Cpp\GUI\RealCalculator project\x64\Debug\RealCalculator project.exe

@@ -1,0 +1,6 @@
+C:\Users\jospin\source\repos\RealCalculator project\RealCalculator project\Debug\RealCalculator project.vcxprojAssemblyReference.cache
+C:\Users\jospin\source\repos\RealCalculator project\RealCalculator project\Debug\RealCalculatorproject.MyForm.resources
+C:\Users\jospin\source\repos\RealCalculator project\RealCalculator project\Debug\RealCalculator project.vcxproj.GenerateResource.cache
+E:\projects\Cpp\GUI\RealCalculator project\RealCalculator project\Debug\RealCalculator project.vcxprojAssemblyReference.cache
+E:\projects\Cpp\GUI\RealCalculator project\RealCalculator project\Debug\RealCalculatorproject.MyForm.resources
+E:\projects\Cpp\GUI\RealCalculator project\RealCalculator project\Debug\RealCalculator project.vcxproj.GenerateResource.cache

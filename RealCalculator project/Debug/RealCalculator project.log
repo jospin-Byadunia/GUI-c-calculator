@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+E:\projects\Cpp\GUI\RealCalculator project\RealCalculator project\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RealCalculator project.vcxproj -> E:\projects\Cpp\GUI\RealCalculator project\Debug\RealCalculator project.exe
+C:\dev\cpp\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(106,5): warning MSB5018: Failed to delete the temporary file "C:\Users\jospin\AppData\Local\Temp\tmp8157955629974ce38c26976a9fb46d0e.exec.cmd". Access to the path 'C:\Users\jospin\AppData\Local\Temp\tmp8157955629974ce38c26976a9fb46d0e.exec.cmd' is denied.
